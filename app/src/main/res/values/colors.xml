@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006064</color>
+    <color name="colorPrimaryDark">#01579B</color>
+    <color name="colorPrimaryNavBar">#00000000</color>
+    <color name="colorAccent">#4A148C</color>
+    <color name="colorPrimaryToolBar">#880E4F</color>
+    <color name="colorPriorityHigh">#F7FF00</color>
+    <color name="colorPriorityLow">#A6A9AE</color>
+    <color name="hgdivOnePrimary">#1A237E</color>
+    <color name="hgdivDarkItems">#FFFFFF</color>
+    <color name="hgdivDarkBGOne">#303F9F</color>
+    <color name="hgdivDarkListItemNotes">#242C2C</color>
+    <color name="textColorDefault">#0D113E</color>
+    <color name="listItemDefault">#E0F7FA</color>
+    <color name="hgdivTextOne">#F3E5F5</color>
+    <color name="darkBackgroundPrimary">#323335</color>
+    <color name="lightBackgroundDefault">#FFFFFF</color>
+    <color name="listbg">#525457</color>
+    <color name="deactivated_link">#B3E5FC</color>
+
+
+</resources>
